@@ -1,0 +1,7 @@
+[
+    {"CarID": 1, "Make": "Toyota", "Model": "Corolla", "Year": 2019, "Price": 15000},
+    {"CarID": 2, "Make": "Honda", "Model": "Civic", "Year": 2018, "Price": 16000},
+    {"CarID": 3, "Make": "Ford", "Model": "Focus", "Year": 2020, "Price": 17000},
+    {"CarID": 4, "Make": "Chevrolet", "Model": "Malibu", "Year": 2017, "Price": 14000},
+    {"CarID": 5, "Make": "Nissan", "Model": "Sentra", "Year": 2019, "Price": 15500}
+]

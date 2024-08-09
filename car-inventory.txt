@@ -1,0 +1,6 @@
+CarID    Make    Model    Year    Price
+1    Toyota    Corolla    2019    15000
+2    Honda    Civic    2018    16000
+3    Ford    Focus    2020    17000
+4    Chevrolet    Malibu    2017    14000
+5    Nissan    Sentra    2019    15500
